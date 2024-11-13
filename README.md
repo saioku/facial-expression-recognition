@@ -4,7 +4,7 @@ After successfully training the model, here are the test results:
 
 ## Overall performance: 
 
-![Example Image](Model_results.png)
+![Example Image](Model_Results.png)
 
 ## Sample of correctly predicted results
 
