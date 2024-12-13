@@ -49,7 +49,7 @@ After successfully training the model, here are the test results:
     - If we take a look at the loss curves for the original model, we can see that it was really good in identifying trained data, but it was only getting worse in identifying new data (as it was overfitting)
     - It went from essentially one block to multiple blocks, added a lot more layers and regularization, etc.
 
-# suggested tweaks to the model 
+# Suggested tweaks to the model 
 
 - Change the structure of the model 
     - less/more layers
@@ -66,8 +66,10 @@ Note that these are only some suggestions, you guys can try something completely
 # How to run this Repo
 
 - Clone the repo
-    - Type in "git clone "https://github.com/saioku/facial-expression-recognition.git"" in your terminal 
+    - Type in "git clone https://github.com/saioku/facial-expression-recognition.git" in your terminal 
 - Make sure that all of the dependencies are satisfied 
     - ex: if your python environment doesnt recognize the "PIL" import, type in "pip install pillow" or "conda install pillow" based on what your environment is. 
 - After all the dependencies are satisfied, run "python main.py"
+
+Note that I used an IDE (VS code) to develop this model if you want to do the same. 
 
